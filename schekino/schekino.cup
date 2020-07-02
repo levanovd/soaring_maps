@@ -1,4 +1,5 @@
 Title,Code,Country,Latitude,Longitude,Elevation,Style,Direction,Length,Frequency,Description
+--- AIRFIELDS ---
 "ALFEREVO","XUOA",RU,5605.835N,03552.788E,162M,2,124,642,,"[Подход] Взор 124, [Вышка] Амазар 125"
 "ANTSIFAROVO","ZA0K",RU,5717.715N,03522.020E,215M,3,076,400,,""
 "AEROGRAD MOZHAYSKIY","UUWH",RU,5529.959N,03612.432E,192M,2,058,1069,,"[Старт] Можайск 135.2"
